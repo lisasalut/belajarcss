@@ -1,0 +1,51 @@
+h1 {
+    color: cadetblue;
+    background-color: pink;
+    text-align: center;
+}
+p {
+    color: brown;
+    background-color: blue;
+}
+#Frim {
+     color: cadetblue;
+     background-color: brown;
+}
+.warnasatu {
+    color: green;
+    background-color: brown;
+}
+.warnadua {
+    color: aqua;
+    background-color: blue;
+}
+.warnasatu {
+    color: coral;
+    background-color: pink;
+}
+.warnadua {
+    color: white;
+    background-color: cornflowerblue;
+}
+.warnatiga {
+    color: darkkhaki;
+    background-color: red;
+}
+#kotak-satu {
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+    margin-bottom: 10px;
+}
+#kotak-dua {
+    height: 100px;
+    width: 500px;
+    background-color: chartreuse;
+    margin-bottom: 10px;
+}
+#kotak-tiga {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
